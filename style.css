@@ -114,3 +114,10 @@
       border-color: transparent
     }
   }
+
+  @media(max-width: 767px){
+    .typing-demo {
+        border-right: 3px solid;
+        font-family: monospace;
+        font-size: 30px;
+      }
